@@ -53,7 +53,6 @@ This enables intuitive understanding of how lifestyle habits influence weight ov
 
 - Only data from **2024 onward** is used in the analysis.
 - Step counts are **aggregated to 7-day averages** to reduce noise.
-- Maintenance calories are **estimated**, not precisely calculated via TDEE formulas.
 
 ## 🔒 Privacy
 
